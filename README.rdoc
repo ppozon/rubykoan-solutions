@@ -1,12 +1,10 @@
-= Patty Pozon Aguayo's Responses to Ruby Koans
+= ppozon's Responses to Ruby Koans
 
 These are my responses to the Ruby Koans, uploaded for version control and 
-backup. I've written a Greed Game, which uses rand for dictating the actions of
-the players. It is run through the command-line through the regular Ruby Koans
-CLI. The game play is shown on the terminal's stdout.
-
-(Thank you to the authors of Ruby Koans, should they ever see this. It was
-an unusual and very enjoyable way to learn a new language.)
+backup. I've written a Greed Game, the extra credit assignment, which uses
+rand for dictating the actions of the players. It is run through the
+command-line through the regular Ruby Koans CLI. The game play is shown
+on the terminal's stdout.
 
 These ruby files are written on top of the Neo Ruby Koans package, files, and
 framework. The Neo Ruby Koans themselves are written by authors Jim Weirich and
